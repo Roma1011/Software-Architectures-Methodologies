@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "1dd9e54e203d68a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "616e047550187041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "493d2f76f21cefdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "91a6931b8b671737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hexagonal Architecture A.K.A Ports and adapters"
+            }
+          },
+          {
+            "id": "5af86be5b4366862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hexagonal Architecture A.K.A Ports and adapters"
+            }
+          },
+          {
+            "id": "6fa2da4bf1097400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ტერმინების ლექსიკონი.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ტერმინების ლექსიკონი"
+            }
+          },
+          {
+            "id": "de7a655774865668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "რატომ სახელი ექვსკუთხედის  არქიტექტურა"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9ca0249c30b50c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c6ed9c44294b499",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d4bd0c5e34c5649",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e08934aaa8437e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a541f019b5143475",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b08c376c3f19f590",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe386e27b84abb63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd3cdc6de312a069",
+    "type": "split",
+    "children": [
+      {
+        "id": "a920d2706a5605c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08233538db61cb3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dd92c9f2ba65c835",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3d8a07c2ae3e3ec5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d15ac807fefbaf44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c6ed9c44294b499",
+  "lastOpenFiles": [
+    "ტერმინების ლექსიკონი.md",
+    "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "Welcome.md",
+    "ნიმუშის ხარჯები და სარგებელი.md",
+    "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
+    "შესავალი მცირე ისტორია.md"
+  ]
+}
