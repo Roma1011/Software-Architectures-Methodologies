@@ -55,46 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ტერმინების ლექსიკონი.md",
+                "file": "App პორტები აქტორები ადაპტერები.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ტერმინების ლექსიკონი"
-            }
-          },
-          {
-            "id": "de7a655774865668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "რატომ სახელი ექვსკუთხედის  არქიტექტურა"
+              "title": "App პორტები აქტორები ადაპტერები"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "9ca0249c30b50c84",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4c6ed9c44294b499",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -238,12 +208,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c6ed9c44294b499",
+  "active": "6fa2da4bf1097400",
   "lastOpenFiles": [
-    "ტერმინების ლექსიკონი.md",
+    "ნიმუშის ხარჯები და სარგებელი.md",
+    "App პორტები აქტორები ადაპტერები.md",
     "Hexagonal Architecture A.K.A Ports and adapters.md",
     "Welcome.md",
-    "ნიმუშის ხარჯები და სარგებელი.md",
+    "ნიმუშის ელემენტები.md",
+    "ტერმინების ლექსიკონი.md",
     "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
     "შესავალი მცირე ისტორია.md"
   ]
