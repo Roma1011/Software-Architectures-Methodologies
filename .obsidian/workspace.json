@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
+                "file": "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "პატერნის სიმეტრიულობა ასიმეტრიულობა"
+              "title": "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
+                "file": "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for პატერნის სიმეტრიულობა ასიმეტრიულობა"
+              "title": "Backlinks for Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
+                "file": "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from პატერნის სიმეტრიულობა ასიმეტრიულობა"
+              "title": "Outgoing links from Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
+                "file": "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of პატერნის სიმეტრიულობა ასიმეტრიულობა"
+              "title": "Outline of Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის"
             }
           }
         ]
@@ -170,6 +170,13 @@
   },
   "active": "00f6f18986520010",
   "lastOpenFiles": [
-    "Hexagonal Architecture A.K.A Ports and adapters.md"
+    "Pasted image 20250709205844.png",
+    "Pasted image 20250709205821.png",
+    "Pasted image 20250709205754.png",
+    "Pasted image 20250709205744.png",
+    "Pasted image 20250709205326.png",
+    "Pasted image 20250709205310.png",
+    "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "პატერნის სიმეტრიულობა ასიმეტრიულობა.md"
   ]
 }
