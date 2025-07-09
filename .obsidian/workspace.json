@@ -1,89 +1,41 @@
 {
   "main": {
-    "id": "1dd9e54e203d68a5",
+    "id": "cab63059376db32f",
     "type": "split",
     "children": [
       {
-        "id": "616e047550187041",
+        "id": "ee1cfdf2e6668a06",
         "type": "tabs",
         "children": [
           {
-            "id": "67a44d509198d9f9",
+            "id": "00f6f18986520010",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
+                "file": "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hexagonal Architecture A.K.A Ports and adapters"
+              "title": "პატერნის სიმეტრიულობა ასიმეტრიულობა"
             }
-<<<<<<< HEAD
           }
         ]
-=======
-          },
-          {
-            "id": "813579ed2d5b04fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hexagonal Architecture A.K.A Ports and adapters"
-            }
-          },
-          {
-            "id": "a62cdc619d6387a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hexagonal Architecture A.K.A Ports and adapters"
-            }
-          },
-          {
-            "id": "4fb80424fa704d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის"
-            }
-          }
-        ],
-        "currentTab": 4
->>>>>>> 16e467fe4455b74654bb0141898b567e8dbad3b7
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0d4bd0c5e34c5649",
+    "id": "1cf66208fa2ae636",
     "type": "split",
     "children": [
       {
-        "id": "e7e08934aaa8437e",
+        "id": "4d92fa3dd95e09f4",
         "type": "tabs",
         "children": [
           {
-            "id": "a541f019b5143475",
+            "id": "8752c9b85819275f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -96,7 +48,7 @@
             }
           },
           {
-            "id": "b08c376c3f19f590",
+            "id": "0c0952918a184038",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -113,7 +65,7 @@
             }
           },
           {
-            "id": "fe386e27b84abb63",
+            "id": "0159043f45bb7af8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -129,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "fd3cdc6de312a069",
+    "id": "16f1c6efe72ddb6b",
     "type": "split",
     "children": [
       {
-        "id": "a920d2706a5605c1",
+        "id": "ce5f6a668d02df29",
         "type": "tabs",
         "children": [
           {
-            "id": "08233538db61cb3a",
+            "id": "16842a4868b7ff66",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for პატერნის სიმეტრიულობა ასიმეტრიულობა"
             }
           },
           {
-            "id": "dd92c9f2ba65c835",
+            "id": "49907acca2a95403",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from პატერნის სიმეტრიულობა ასიმეტრიულობა"
             }
           },
           {
-            "id": "3d8a07c2ae3e3ec5",
+            "id": "bd8a1683962540dd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,17 +137,18 @@
             }
           },
           {
-            "id": "d15ac807fefbaf44",
+            "id": "170cb6ecead91ef2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of პატერნის სიმეტრიულობა ასიმეტრიულობა"
             }
           }
         ]
@@ -213,45 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "67a44d509198d9f9",
+  "active": "00f6f18986520010",
   "lastOpenFiles": [
-    "App პორტები აქტორები ადაპტერები.md",
-    "მოსიარულე ჩონჩხის” (Walking Skeleton).md",
-    "Hexagonal Architecture A.K.A Ports and adapters.md",
-    "ტერმინების ლექსიკონი.md",
-    "კავშირი Use Case-ებთან.md",
-    "განვითარების თანმიმდევრობა.md",
-=======
-  "active": "4fb80424fa704d30",
-  "lastOpenFiles": [
-    "Pasted image 20250708171038.png",
-    "Pasted image 20250708170805.png",
-    "Pasted image 20250708170602.png",
-    "Hexagonal Architecture A.K.A Ports and adapters.md",
-    "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
-    "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
-    "მოსიარულე ჩონჩხის” (Walking Skeleton).md",
-    "როგორ სტრუქტურირდება ფაილური სისტემა.md",
-    "განვითარების თანმიმდევრობა.md",
-    "Use Case.md",
-    "App პორტები აქტორები ადაპტერები.md",
-    "ტერმინების ლექსიკონი.md",
->>>>>>> 16e467fe4455b74654bb0141898b567e8dbad3b7
-    "Pasted image 20250707220548.png",
-    "Pasted image 20250707213443.png",
-    "Pasted image 20250707213024.png",
-    "აპლიკაცია (Application).md",
-    "პორტი (Port).md",
-    "Pasted image 20250706135521.png",
-    "[[პორტი (Port).md",
-    "ნიმუშის ხარჯები და სარგებელი.md",
-    "კონფიგურატორი(The Configurator).md",
-    "რა არის სავალდებულო, არასავალდებულო და საერთოდ გარეთ მდებარე ამ ნიმუშის ფარგლებში.md",
-    "Welcome.md",
-    "Untitled",
-    "ნიმუშის ელემენტები.md",
-    "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
-    "შესავალი მცირე ისტორია.md"
+    "Hexagonal Architecture A.K.A Ports and adapters.md"
   ]
 }
