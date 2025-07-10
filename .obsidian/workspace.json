@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c301bb484168e97b",
+            "id": "bb80da2d8cd2a602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD კავშირი.md",
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDD კავშირი"
+              "title": "Hexagonal Architecture A.K.A Ports and adapters"
+            }
+          },
+          {
+            "id": "dd8d89be53a8d4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ორიგინალი სტატიები.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ორიგინალი სტატიები"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,20 +183,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c301bb484168e97b",
+  "active": "dd8d89be53a8d4c8",
   "lastOpenFiles": [
-    "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
+    "Pasted image 20250711012005.png",
+    "Pasted image 20250711011808.png",
+    "ორიგინალი სტატიები.md",
     "Hexagonal Architecture A.K.A Ports and adapters.md",
-    "DDD კავშირი.md",
+    "არის თუ არა CQRS მაგალითი Ports  Adapters არქიტექტურის.md",
+    "DDD-ის Anti-Corruption Layers.md",
+    "ტერმინების ლექსიკონი.md",
+    "Pasted image 20250711005502.png",
+    "Pasted image 20250711004901.png",
+    "Pasted image 20250711004838.png",
+    "Pasted image 20250711004804.png",
+    "Pasted image 20250711004752.png",
+    "Pasted image 20250711004718.png",
+    "App პორტები აქტორები ადაპტერები.md",
     "Component + Strategy generalizes Ports & Adapters.md",
+    "DDD კავშირი.md",
+    "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
     "Pasted image 20250711002527.png",
     "Pasted image 20250711002524.png",
     "Pasted image 20250709205844.png",
-    "Pasted image 20250709205821.png",
-    "Pasted image 20250709205754.png",
-    "Pasted image 20250709205744.png",
-    "Pasted image 20250709205326.png",
-    "Pasted image 20250709205310.png",
     "პატერნის სიმეტრიულობა ასიმეტრიულობა.md"
   ]
 }
