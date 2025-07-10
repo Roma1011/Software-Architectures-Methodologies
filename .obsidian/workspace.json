@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1cfdf2e6668a06",
+        "id": "ab0bd6bb85cc755d",
         "type": "tabs",
         "children": [
           {
-            "id": "00f6f18986520010",
+            "id": "c301bb484168e97b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,11 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00f6f18986520010",
+  "active": "c301bb484168e97b",
   "lastOpenFiles": [
+    "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
     "Hexagonal Architecture A.K.A Ports and adapters.md",
     "DDD კავშირი.md",
-    "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
+    "Component + Strategy generalizes Ports & Adapters.md",
+    "Pasted image 20250711002527.png",
+    "Pasted image 20250711002524.png",
     "Pasted image 20250709205844.png",
     "Pasted image 20250709205821.png",
     "Pasted image 20250709205754.png",
