@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ორიგინალი სტატიები.md",
+                "file": "აპლიკაციის შენიშვნები.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ორიგინალი სტატიები"
+              "title": "აპლიკაციის შენიშვნები"
             }
           }
         ],
@@ -185,26 +185,28 @@
   },
   "active": "dd8d89be53a8d4c8",
   "lastOpenFiles": [
+    "Pasted image 20250711224940.png",
+    "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "აპლიკაციის შენიშვნები.md",
+    "DDD-ის Anti-Corruption Layers.md",
+    "App პორტები აქტორები ადაპტერები.md",
+    "Component + Strategy generalizes Ports & Adapters.md",
+    "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
+    "Pasted image 20250711224020.png",
+    "Pasted image 20250711223945.png",
+    "Pasted image 20250711223807.png",
+    "ორიგინალი სტატიები.md",
+    "DDD კავშირი.md",
     "Pasted image 20250711012005.png",
     "Pasted image 20250711011808.png",
-    "ორიგინალი სტატიები.md",
-    "Hexagonal Architecture A.K.A Ports and adapters.md",
     "არის თუ არა CQRS მაგალითი Ports  Adapters არქიტექტურის.md",
-    "DDD-ის Anti-Corruption Layers.md",
     "ტერმინების ლექსიკონი.md",
     "Pasted image 20250711005502.png",
     "Pasted image 20250711004901.png",
     "Pasted image 20250711004838.png",
     "Pasted image 20250711004804.png",
     "Pasted image 20250711004752.png",
-    "Pasted image 20250711004718.png",
-    "App პორტები აქტორები ადაპტერები.md",
-    "Component + Strategy generalizes Ports & Adapters.md",
-    "DDD კავშირი.md",
     "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
-    "Pasted image 20250711002527.png",
-    "Pasted image 20250711002524.png",
-    "Pasted image 20250709205844.png",
     "პატერნის სიმეტრიულობა ასიმეტრიულობა.md"
   ]
 }
