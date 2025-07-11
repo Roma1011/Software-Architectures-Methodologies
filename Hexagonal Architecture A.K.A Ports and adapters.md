@@ -13,3 +13,6 @@
 [[პატერნის სიმეტრიულობა ასიმეტრიულობა]]
 [[Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის]]
 [[DDD კავშირი]] 
+[[DDD-ის Anti-Corruption Layers]]
+[[არის თუ არა CQRS მაგალითი Ports  Adapters არქიტექტურის]]
+[[ორიგინალი სტატიები]]
