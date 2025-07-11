@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cab63059376db32f",
+    "id": "1dd9e54e203d68a5",
     "type": "split",
     "children": [
       {
-        "id": "ee1cfdf2e6668a06",
+        "id": "616e047550187041",
         "type": "tabs",
         "children": [
           {
-            "id": "00f6f18986520010",
+            "id": "4fb80424fa704d30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD კავშირი.md",
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDD კავშირი"
+              "title": "Hexagonal Architecture A.K.A Ports and adapters"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cf66208fa2ae636",
+    "id": "0d4bd0c5e34c5649",
     "type": "split",
     "children": [
       {
-        "id": "4d92fa3dd95e09f4",
+        "id": "e7e08934aaa8437e",
         "type": "tabs",
         "children": [
           {
-            "id": "8752c9b85819275f",
+            "id": "a541f019b5143475",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "0c0952918a184038",
+            "id": "b08c376c3f19f590",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0159043f45bb7af8",
+            "id": "fe386e27b84abb63",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "16f1c6efe72ddb6b",
+    "id": "fd3cdc6de312a069",
     "type": "split",
     "children": [
       {
-        "id": "ce5f6a668d02df29",
+        "id": "a920d2706a5605c1",
         "type": "tabs",
         "children": [
           {
-            "id": "16842a4868b7ff66",
+            "id": "08233538db61cb3a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD კავშირი.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DDD კავშირი"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "49907acca2a95403",
+            "id": "dd92c9f2ba65c835",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD კავშირი.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DDD კავშირი"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "bd8a1683962540dd",
+            "id": "3d8a07c2ae3e3ec5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +135,17 @@
             }
           },
           {
-            "id": "170cb6ecead91ef2",
+            "id": "d15ac807fefbaf44",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD კავშირი.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DDD კავშირი"
+              "title": "Outline"
             }
           }
         ]
@@ -168,17 +165,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00f6f18986520010",
+  "active": "4fb80424fa704d30",
   "lastOpenFiles": [
-    "Hexagonal Architecture A.K.A Ports and adapters.md",
     "DDD კავშირი.md",
     "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
+    "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "App პორტები აქტორები ადაპტერები.md",
     "Pasted image 20250709205844.png",
     "Pasted image 20250709205821.png",
     "Pasted image 20250709205754.png",
     "Pasted image 20250709205744.png",
     "Pasted image 20250709205326.png",
     "Pasted image 20250709205310.png",
-    "პატერნის სიმეტრიულობა ასიმეტრიულობა.md"
+    "Pasted image 20250708171038.png",
+    "Pasted image 20250708170805.png",
+    "Pasted image 20250708170602.png",
+    "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
+    "მოსიარულე ჩონჩხის” (Walking Skeleton).md",
+    "როგორ სტრუქტურირდება ფაილური სისტემა.md",
+    "განვითარების თანმიმდევრობა.md",
+    "Use Case.md",
+    "ტერმინების ლექსიკონი.md",
+    "Pasted image 20250707220548.png",
+    "აპლიკაცია (Application).md",
+    "პორტი (Port).md",
+    "[[პორტი (Port).md",
+    "ნიმუშის ხარჯები და სარგებელი.md",
+    "კონფიგურატორი(The Configurator).md",
+    "რა არის სავალდებულო, არასავალდებულო და საერთოდ გარეთ მდებარე ამ ნიმუშის ფარგლებში.md",
+    "Welcome.md",
+    "Untitled",
+    "ნიმუშის ელემენტები.md",
+    "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
+    "შესავალი მცირე ისტორია.md"
   ]
 }
