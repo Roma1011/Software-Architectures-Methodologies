@@ -1,0 +1,171 @@
+- at start it seems reduntant to create this isolation with Adapters/Interfaces
+- risk management : secure this risk when it's relevant eg. when I suspect it will break, it's worth the effort
+- to many boundaries to soon can be expensive; YAGNI => You ain't gonna need it
+- there are some 'classic' boundaries like UI
+- boundaries inside the domain might also be very effective (ie:bounded contexts)
+- we start with a Transactional Script(KISS) and then we refactor to a more complec architecture => thin Application layer. rich domain model, ect.
+- applying an architecture ver dogmically will lead to a lot of waste be pragmatic Use-Case is not only CRUD but it evolves to more complex flows.
+	CRUD(S)= Create,Read,Update,Delete,Search
+- interfaces for: 
+	- 2+ implementations 
+	- Separate interfaces vs imple: dependency inversion (UseProvider <-- LdapAdapet)
+
+- can you do serious BE without a DI framework.
+- don't pollute your domain with frameworks. Is spring a pollutio ?
+	- constructor DI,@Value("${}"), @Service+@RequiredArgsConstructor+@SLf4j
+
+- When consistancy and performance kick in anything else leaves
+
+
+how can we hande cross cutting concerns in clear architecture(Hexagonal)?
+
+- security,metrics,logging,transactions ect.
+- decorator (php),decorator(py), AOP/annotations (Java/.Net/scala/kt)
+"Cross-cutting concertn"= "a concertn affects multiple modules in a program"
+
+
+- Exposing domain model in your API ?
+	Domain model Freezes: any changes break clients
+	Security Risk: Execessive Data expousure, Mass Assigment [API-SEC]
+	Pollute the domain with presentation concern,like @JsonIgnore
+
+
+- "Internal Api" Only to a limited number client
+	- overengineering ? why	is this REST?
+
+
+
+1. "Redundant isolation with Adapters/Interfaces" at start
+შინაარსი: Clean/Hexagonal არქიტექტურაში, ბევრი ინტერფეისი ადრეულ ეტაპზე გადაჭარბებულად გამოიყურება.
+ხარვეზი: ძალიან ადრე დანერგილი ინვერსია ართულებს მარტივი სისტემის განვითარებას.
+მიმართვა:
+
+	YAGNI: როცა ჯერ მხოლოდ ერთი იმპლემენტაციაა და ეს გრძელვადიან რისკს არ წარმოშობს — არ დაგჭირს.
+
+	Interfacing = Overhead → გამოიყენე როცა:
+		ტესტირება გინდა mocking-ის საშუალებით
+		საჭიროება გაქვს მონაცვლეობით იმპლემენტაციების
+		გინდა boundaries-ის მკაფიოდ გამოყოფა მომავლის refactor-ისთვის
+
+მაგალითი:
+UserRepository ინტერფეისად ჯერ არ გამოტანო, თუ მაინც მხოლოდ Mongo გჭირდება.
+მაგრამ, თუ მომავალი 6 თვეში Postgres-ზე გადასვლა იგეგმება — უკვე ღირს ამის გათვალისწინება.
+
+
+2. Risk Management: Secure only when it's relevant
+შინაარსი: არ დახარჯო რესურსი იმ რისკებზე, რომლებიც ჯერჯერობით არააქტიურია.
+პრინციპი:
+
+	არ "იზღვიო" რამე მხოლოდ იმიტომ, რომ "ასე ჯობია" — არამედ მაშინ, როცა ცვლილების ან ჩავარდნის რისკი რეალურია.
+	არ შექმნა "abstraction over abstraction".
+
+
+
+3. Too many boundaries too soon = expensive
+შინაარსი: მკაცრი მოდულარიზაცია ბევრ ზედმეტ აბსტრაქციას წარმოქმნის
+ხსნა:
+
+	მიყევი ევოლუციურ არქიტექტურას: transactional script → შემდეგ refactor
+	Single Module → Modular Monolith → მხოლოდ მერე Microservices (საჭიროებისამებრ)
+
+
+4. Classic Boundaries like UI
+შინაარსი: ზოგიერთი ბაუნდარი ყოველთვის საჭიროა.
+მაგალითი:
+	UI ⇄ Application ⇄ Domain ⇄ Infrastructure ეს მკაფიო სეპარაცია გვეხმარება UI ცვლილებების დეკუპლირებაში ბიზნეს ლოგიკისგან
+
+
+5. Boundaries inside the domain (bounded contexts)
+შინაარსი: DDD-ს მიხედვით, დიდი დომენის დაყოფა უფრო მცირე კონტექსტებად.
+მიზანი:
+
+	შეზღუდო მოდელის კომპლექსურობა
+	თავიდან აიცილო "God model"
+	შეამცირო დამოკიდებულებები და აიზოლირო ცვლილებები
+
+მაგალითად:
+Billing, Authentication, Notification — თითოეულს თავისი ენა, მონაცემები და ლოგიკა აქვს.
+
+
+6. Transactional Script → Rich Domain Model
+შინაარსი:
+
+	დაიწყე მარტივად (KISS)
+
+	Refactor როცა საჭირო გახდება
+	მიდგომა:
+		Thin Application Layer → იხმობს სერვისებს
+		Rich Domain Model → შეიცავს წესებს, ინვარიანტებს
+
+
+7. Architecture != Dogma, CRUD evolves
+შინაარსი: Use Case ≠ მხოლოდ CRUD
+
+	როდესაც ბიზნესის ლოგიკა რთულდება, CRUD არ კმარა
+
+	საჭირო ხდება Command/Event driven, policies, rules
+	მაგალითად:
+		შეკვეთის დამუშავება = CRUD + ფასების გამოთვლა + ლოგისტიკა + გადასახადები
+
+8. Interfaces: Only when…
+	გჭირდება რამდენიმე იმპლემენტაცია (SMSProvider, EmailProvider)
+	გინდა DIP დაცვა (UseCase → ISmsSender, UserRepo)
+
+
+
+9. Do you need a DI framework?
+პასუხი: არა.
+მაგრამ… დიდ სისტემაში ხელით wiring რთულდება.
+ალტერნატივები:
+
+	Pure constructor injection
+	Factory pattern
+	Lightweight containers (Dagger, Koin, Guice)
+
+
+10. Spring = Pollution?
+	Domain model არ უნდა შეიცავდეს @Component, @Service, @Value
+
+	ამ ყველაფერმა ინფრასტრუქტურაში უნდა დაიდოს
+	ამოხსნა:
+	Use Spring annotations მხოლოდ Application/Infra ფენაში
+	Domain model იყოს framework-agnostic
+
+11. When performance & consistency become central
+ეს არის არქიტექტურული turning point:
+
+	ზოგჯერ წყვეტ Clean-ს შენარჩუნებას და იწყებ optimization-ზე ფიქრს
+	caching, batching, denormalization — ხანდახან Dirty კი, მაგრამ საჭირო
+
+
+12. Cross-Cutting Concerns in Clean/Hexagonal
+მიზანი: ამ ამოცანების გამოყოფა domain logic-იდან
+მექანიზმები:
+
+	Decorator pattern (Python, PHP)
+	Middleware (Node, Express, .NET pipeline)
+	AOP (Spring, AspectJ, .NET Filters)
+	Proxy/Interceptor (NestJS, Micronaut)
+
+
+
+13. Expose Domain Model in API?
+საფრთხეები:
+	Breaks clients (tight coupling)
+	Security leaks (mass assignment, hidden fields)
+	Dirty annotations (@JsonIgnore, @XmlElement)
+	ამოხსნა:
+	Use DTOs/ViewModels
+	Map domain ↔ DTO (AutoMapper, MapStruct, manual)
+
+
+14. "Internal API" — REST or not?
+შინაარსი: Internal API-სთვის REST შესაძლოა Overkill იყოს
+ალტერნატივები:
+
+	gRPC
+	Internal Events
+	Shared memory calls (if monolith)
+	Local interfaces with abstraction
+
+
