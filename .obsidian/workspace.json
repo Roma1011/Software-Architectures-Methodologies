@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
-                "mode": "source",
+                "file": "აპლიკაციის შენიშვნები.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში"
+              "title": "აპლიკაციის შენიშვნები"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "19765a01c2e07d84",
   "lastOpenFiles": [
-    "Hexagonal Architecture A.K.A Ports and adapters.md",
     "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
+    "Hexagonal Architecture A.K.A Ports and adapters.md",
     "ორიგინალი სტატიები.md",
     "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
     "განვითარების თანმიმდევრობა.md",
