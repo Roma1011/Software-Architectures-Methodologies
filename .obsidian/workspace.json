@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
-                "mode": "source",
+                "file": "კომპონენტი პლიუს სტრატეგია გენერალიზება.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hexagonal Architecture A.K.A Ports and adapters"
+              "title": "კომპონენტი პლიუს სტრატეგია გენერალიზება"
             }
           }
         ]
@@ -170,8 +170,20 @@
   },
   "active": "19765a01c2e07d84",
   "lastOpenFiles": [
-    "კომენტარები ორიგინალურ სტატიაზე.md",
+    "Pasted image 20250715230337.png",
+    "Pasted image 20250715230320.png",
+    "Pasted image 20250715230254.png",
+    "Pasted image 20250715230214.png",
+    "Pasted image 20250715230123.png",
+    "Pasted image 20250715230109.png",
+    "Pasted image 20250715230025.png",
+    "Pasted image 20250715225950.png",
+    "Pasted image 20250715225642.png",
+    "Pasted image 20250715225633.png",
+    "Pasted image 20250715225548.png",
     "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "კომპონენტი პლიუს სტრატეგია გენერალიზება.md",
+    "კომენტარები ორიგინალურ სტატიაზე.md",
     "ლიტერატურა და დაკავშირებული საკითხავი მასალა.md",
     "დაკავშირებული პატერნები.md",
     "App პორტები აქტორები ადაპტერები.md",
@@ -190,18 +202,8 @@
     "DDD კავშირი.md",
     "არის თუ არა CQRS მაგალითი Ports  Adapters არქიტექტურის.md",
     "New Text Document.txt",
-    "Pasted image 20250711224940.png",
     "DDD-ის Anti-Corruption Layers.md",
     "Component + Strategy generalizes Ports & Adapters.md",
-    "Pasted image 20250711224020.png",
-    "Pasted image 20250711223945.png",
-    "Pasted image 20250711223807.png",
-    "Pasted image 20250711012005.png",
-    "Pasted image 20250711011808.png",
-    "Pasted image 20250711005502.png",
-    "Pasted image 20250711004901.png",
-    "Pasted image 20250711004838.png",
-    "Pasted image 20250711004804.png",
     "პატერნის სიმეტრიულობა ასიმეტრიულობა.md"
   ]
 }
