@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "აპლიკაციის შენიშვნები.md",
-                "mode": "preview",
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "აპლიკაციის შენიშვნები"
+              "title": "Hexagonal Architecture A.K.A Ports and adapters"
             }
           }
         ]
@@ -170,8 +170,13 @@
   },
   "active": "19765a01c2e07d84",
   "lastOpenFiles": [
-    "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
+    "კომენტარები ორიგინალურ სტატიაზე.md",
     "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "ლიტერატურა და დაკავშირებული საკითხავი მასალა.md",
+    "დაკავშირებული პატერნები.md",
+    "App პორტები აქტორები ადაპტერები.md",
+    "აპლიკაციის შენიშვნები.md",
+    "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
     "ორიგინალი სტატიები.md",
     "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
     "განვითარების თანმიმდევრობა.md",
@@ -179,13 +184,11 @@
     "აპლიკაცია (Application).md",
     "რა არის სავალდებულო, არასავალდებულო და საერთოდ გარეთ მდებარე ამ ნიმუშის ფარგლებში.md",
     "კონფიგურატორი(The Configurator).md",
-    "App პორტები აქტორები ადაპტერები.md",
     "ტერმინების ლექსიკონი.md",
     "ნიმუშის ხარჯები და სარგებელი.md",
     "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
     "DDD კავშირი.md",
     "არის თუ არა CQRS მაგალითი Ports  Adapters არქიტექტურის.md",
-    "აპლიკაციის შენიშვნები.md",
     "New Text Document.txt",
     "Pasted image 20250711224940.png",
     "DDD-ის Anti-Corruption Layers.md",
