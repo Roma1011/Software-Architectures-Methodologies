@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "კომპონენტი პლიუს სტრატეგია გენერალიზება.md",
-                "mode": "preview",
-                "source": true
+                "file": "Use Case.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "კომპონენტი პლიუს სტრატეგია გენერალიზება"
+              "title": "Use Case"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "19765a01c2e07d84",
   "lastOpenFiles": [
+    "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "კომპონენტი პლიუს სტრატეგია გენერალიზება.md",
     "Pasted image 20250715230337.png",
     "Pasted image 20250715230320.png",
     "Pasted image 20250715230254.png",
@@ -180,9 +182,6 @@
     "Pasted image 20250715225950.png",
     "Pasted image 20250715225642.png",
     "Pasted image 20250715225633.png",
-    "Pasted image 20250715225548.png",
-    "Hexagonal Architecture A.K.A Ports and adapters.md",
-    "კომპონენტი პლიუს სტრატეგია გენერალიზება.md",
     "კომენტარები ორიგინალურ სტატიაზე.md",
     "ლიტერატურა და დაკავშირებული საკითხავი მასალა.md",
     "დაკავშირებული პატერნები.md",
