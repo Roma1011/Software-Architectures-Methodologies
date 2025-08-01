@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cab63059376db32f",
+    "id": "e1d828e70ddd2eed",
     "type": "split",
     "children": [
       {
-        "id": "d0bda9ce86485eb0",
+        "id": "d4653a512f3dfbfb",
         "type": "tabs",
         "children": [
           {
-            "id": "19765a01c2e07d84",
+            "id": "2a0a158a53cb844c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Use Case.md",
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use Case"
+              "title": "Hexagonal Architecture A.K.A Ports and adapters"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cf66208fa2ae636",
+    "id": "2d2979b7284a2129",
     "type": "split",
     "children": [
       {
-        "id": "4d92fa3dd95e09f4",
+        "id": "b6101631c2c43a03",
         "type": "tabs",
         "children": [
           {
-            "id": "8752c9b85819275f",
+            "id": "30c6541cb66a960d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "0c0952918a184038",
+            "id": "8943b4007d8fac28",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0159043f45bb7af8",
+            "id": "ae9ae3e2f2f6cb32",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "16f1c6efe72ddb6b",
+    "id": "80bed6bb46f9acea",
     "type": "split",
     "children": [
       {
-        "id": "ce5f6a668d02df29",
+        "id": "d3ef6b6055fdb561",
         "type": "tabs",
         "children": [
           {
-            "id": "16842a4868b7ff66",
+            "id": "82b47a1bbe8b0aa3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD კავშირი.md",
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DDD კავშირი"
+              "title": "Backlinks for Hexagonal Architecture A.K.A Ports and adapters"
             }
           },
           {
-            "id": "49907acca2a95403",
+            "id": "0164900c85f91712",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD კავშირი.md",
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DDD კავშირი"
+              "title": "Outgoing links from Hexagonal Architecture A.K.A Ports and adapters"
             }
           },
           {
-            "id": "bd8a1683962540dd",
+            "id": "2ccaf9a6a45a2753",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "170cb6ecead91ef2",
+            "id": "503d5d0256e02e72",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD კავშირი.md",
+                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DDD კავშირი"
+              "title": "Outline of Hexagonal Architecture A.K.A Ports and adapters"
             }
           }
         ]
@@ -168,41 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19765a01c2e07d84",
+  "active": "2a0a158a53cb844c",
   "lastOpenFiles": [
+    "ფინალური აზრები პატერნის წერისა და სახელდების შესახებ.md",
+    "განხილვა Dependency Inversion, Injection, Lookup.md",
     "Hexagonal Architecture A.K.A Ports and adapters.md",
-    "კომპონენტი პლიუს სტრატეგია გენერალიზება.md",
-    "Pasted image 20250715230337.png",
-    "Pasted image 20250715230320.png",
-    "Pasted image 20250715230254.png",
-    "Pasted image 20250715230214.png",
-    "Pasted image 20250715230123.png",
-    "Pasted image 20250715230109.png",
-    "Pasted image 20250715230025.png",
-    "Pasted image 20250715225950.png",
-    "Pasted image 20250715225642.png",
-    "Pasted image 20250715225633.png",
-    "კომენტარები ორიგინალურ სტატიაზე.md",
-    "ლიტერატურა და დაკავშირებული საკითხავი მასალა.md",
-    "დაკავშირებული პატერნები.md",
+    "The article Configurable Receiver.md",
+    "Pasted image 20250801235625.png",
+    "The Hidden Fourth Object the Configurator.md",
+    "Pasted image 20250801233454.png",
+    "Ports & Adapters (Hexagonal Architecture) revisited.md",
     "App პორტები აქტორები ადაპტერები.md",
-    "აპლიკაციის შენიშვნები.md",
-    "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
-    "ორიგინალი სტატიები.md",
-    "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
-    "განვითარების თანმიმდევრობა.md",
-    "როგორ სტრუქტურირდება ფაილური სისტემა.md",
-    "აპლიკაცია (Application).md",
-    "რა არის სავალდებულო, არასავალდებულო და საერთოდ გარეთ მდებარე ამ ნიმუშის ფარგლებში.md",
-    "კონფიგურატორი(The Configurator).md",
-    "ტერმინების ლექსიკონი.md",
-    "ნიმუშის ხარჯები და სარგებელი.md",
+    "კომპონენტი პლიუს სტრატეგია გენერალიზება.md",
     "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
-    "DDD კავშირი.md",
-    "არის თუ არა CQRS მაგალითი Ports  Adapters არქიტექტურის.md",
-    "New Text Document.txt",
-    "DDD-ის Anti-Corruption Layers.md",
-    "Component + Strategy generalizes Ports & Adapters.md",
-    "პატერნის სიმეტრიულობა ასიმეტრიულობა.md"
+    "Pasted image 20250801233123.png",
+    "Pasted image 20250801233035.png",
+    "Pasted image 20250801232944.png",
+    "Pasted image 20250801232912.png",
+    "ტერმინების ლექსიკონი.md"
   ]
 }
