@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
+                "file": "ტერმინების ლექსიკონი.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hexagonal Architecture A.K.A Ports and adapters"
+              "title": "ტერმინების ლექსიკონი"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
+                "file": "განხილვა Dependency Inversion, Injection, Lookup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hexagonal Architecture A.K.A Ports and adapters"
+              "title": "Backlinks for განხილვა Dependency Inversion, Injection, Lookup"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
+                "file": "განხილვა Dependency Inversion, Injection, Lookup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hexagonal Architecture A.K.A Ports and adapters"
+              "title": "Outgoing links from განხილვა Dependency Inversion, Injection, Lookup"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexagonal Architecture A.K.A Ports and adapters.md",
+                "file": "განხილვა Dependency Inversion, Injection, Lookup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hexagonal Architecture A.K.A Ports and adapters"
+              "title": "Outline of განხილვა Dependency Inversion, Injection, Lookup"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,9 +171,9 @@
   },
   "active": "2a0a158a53cb844c",
   "lastOpenFiles": [
-    "ფინალური აზრები პატერნის წერისა და სახელდების შესახებ.md",
-    "განხილვა Dependency Inversion, Injection, Lookup.md",
     "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "განხილვა Dependency Inversion, Injection, Lookup.md",
+    "ფინალური აზრები პატერნის წერისა და სახელდების შესახებ.md",
     "The article Configurable Receiver.md",
     "Pasted image 20250801235625.png",
     "The Hidden Fourth Object the Configurator.md",

@@ -26,4 +26,4 @@
 [[The Hidden Fourth Object the Configurator]]
 [[The article Configurable Receiver]]
 [[განხილვა Dependency Inversion, Injection, Lookup]]
-[[ფინალური აზრები პატერნის წერისა და სახელდების შესახებ]]
+[[ფინალური აზრები პატერნის წერისა და სახელდების შესახებ]]  
