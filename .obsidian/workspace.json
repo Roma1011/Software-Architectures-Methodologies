@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d0bda9ce86485eb0",
+        "id": "fd6e2498a03567ba",
         "type": "tabs",
         "children": [
           {
-            "id": "19765a01c2e07d84",
+            "id": "6232df5d179f507e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Use Case.md",
+                "file": "ტერმინების ლექსიკონი.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use Case"
+              "title": "ტერმინების ლექსიკონი"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,9 +169,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19765a01c2e07d84",
+  "active": "6232df5d179f507e",
   "lastOpenFiles": [
+    "ლიტერატურა და დაკავშირებული საკითხავი მასალა.md",
+    "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
+    "რა არის სავალდებულო, არასავალდებულო და საერთოდ გარეთ მდებარე ამ ნიმუშის ფარგლებში.md",
+    "პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
+    "მოსიარულე ჩონჩხის” (Walking Skeleton).md",
+    "ნიმუშის ხარჯები და სარგებელი.md",
+    "ორიგინალი სტატიები.md",
+    "Welcome.md",
+    "Use Case.md",
+    "ტერმინების ლექსიკონი.md",
     "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "პორტი (Port).md",
+    "DDD-ის Anti-Corruption Layers.md",
+    "App პორტები აქტორები ადაპტერები.md",
     "კომპონენტი პლიუს სტრატეგია გენერალიზება.md",
     "Pasted image 20250715230337.png",
     "Pasted image 20250715230320.png",
@@ -183,26 +197,16 @@
     "Pasted image 20250715225642.png",
     "Pasted image 20250715225633.png",
     "კომენტარები ორიგინალურ სტატიაზე.md",
-    "ლიტერატურა და დაკავშირებული საკითხავი მასალა.md",
     "დაკავშირებული პატერნები.md",
-    "App პორტები აქტორები ადაპტერები.md",
     "აპლიკაციის შენიშვნები.md",
     "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
-    "ორიგინალი სტატიები.md",
     "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
     "განვითარების თანმიმდევრობა.md",
     "როგორ სტრუქტურირდება ფაილური სისტემა.md",
     "აპლიკაცია (Application).md",
-    "რა არის სავალდებულო, არასავალდებულო და საერთოდ გარეთ მდებარე ამ ნიმუშის ფარგლებში.md",
     "კონფიგურატორი(The Configurator).md",
-    "ტერმინების ლექსიკონი.md",
-    "ნიმუშის ხარჯები და სარგებელი.md",
-    "რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
     "DDD კავშირი.md",
     "არის თუ არა CQRS მაგალითი Ports  Adapters არქიტექტურის.md",
-    "New Text Document.txt",
-    "DDD-ის Anti-Corruption Layers.md",
-    "Component + Strategy generalizes Ports & Adapters.md",
-    "პატერნის სიმეტრიულობა ასიმეტრიულობა.md"
+    "New Text Document.txt"
   ]
 }
