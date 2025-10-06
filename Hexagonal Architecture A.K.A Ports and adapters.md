@@ -22,3 +22,8 @@
 [[ლიტერატურა და დაკავშირებული საკითხავი მასალა]]
 [[კომენტარები ორიგინალურ სტატიაზე]]
 [[კომპონენტი პლიუს სტრატეგია გენერალიზება]]
+[[Ports & Adapters (Hexagonal Architecture) revisited]]
+[[The Hidden Fourth Object the Configurator]]
+[[The article Configurable Receiver]]
+[[განხილვა Dependency Inversion, Injection, Lookup]]
+[[ფინალური აზრები პატერნის წერისა და სახელდების შესახებ]]
