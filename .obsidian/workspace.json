@@ -8,20 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6232df5d179f507e",
+            "id": "60419dedf59e6f22",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "b78b790b5e8dde44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ტერმინების ლექსიკონი.md",
+                "file": "Domain Driven Deign(DDD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ტერმინების ლექსიკონი"
+              "title": "Domain Driven Deign(DDD)"
+            }
+          },
+          {
+            "id": "8c6bb701a845a076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "თავი 1. ბიზნეს დომენების ანალიზი.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "თავი 1. ბიზნეს დომენების ანალიზი"
+            }
+          },
+          {
+            "id": "493b6de01ca9967c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "რა არის სუბდომენი (Subdomain).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "რა არის სუბდომენი (Subdomain)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,8 +214,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8752c9b85819275f",
+  "active": "8c6bb701a845a076",
   "lastOpenFiles": [
+    "სუბდომენების შედარება (Comparing Subdomains).md",
+    "Pasted image 20260105134934.png",
+    "Domain Driven Deign(DDD).md",
+    "რა არის სუბდომენი (Subdomain).md",
+    "თავი 1. ბიზნეს დომენების ანალიზი.md",
+    "რა არის ბიზნეს დომენი (Business Domain).md",
+    "Hexagonal Architecture A.K.A Ports and adapters.md",
+    "Welcome.md",
+    "ტერმინების ლექსიკონი.md",
     "ფინალური აზრები პატერნის წერისა და სახელდების შესახებ.md",
     "განხილვა Dependency Inversion, Injection, Lookup.md",
     "The article Configurable Receiver.md",
@@ -189,10 +243,7 @@
     "მოსიარულე ჩონჩხის” (Walking Skeleton).md",
     "ნიმუშის ხარჯები და სარგებელი.md",
     "ორიგინალი სტატიები.md",
-    "Welcome.md",
     "Use Case.md",
-    "ტერმინების ლექსიკონი.md",
-    "Hexagonal Architecture A.K.A Ports and adapters.md",
     "პორტი (Port).md",
     "DDD-ის Anti-Corruption Layers.md",
     "App პორტები აქტორები ადაპტერები.md",
@@ -200,13 +251,6 @@
     "Pasted image 20250715230337.png",
     "Pasted image 20250715230320.png",
     "Pasted image 20250715230254.png",
-    "Pasted image 20250715230214.png",
-    "კომენტარები ორიგინალურ სტატიაზე.md",
-    "დაკავშირებული პატერნები.md",
-    "აპლიკაციის შენიშვნები.md",
-    "ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
-    "Layered, Onion, Clean, Hexagonal რა განსხვავებაა მათ შორის.md",
-    "განვითარების თანმიმდევრობა.md",
     "New Text Document.txt"
   ]
 }
