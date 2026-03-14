@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5b4fa485a4cc6e7",
+            "id": "96c8b4fa47daa41d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Domain Driven Deign(DDD)"
+            }
+          },
+          {
+            "id": "ed5e349279a06314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Driven Deign(DDD)"
+            }
+          },
+          {
+            "id": "994a481196dc9055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Driven Deign(DDD)"
+            }
+          },
+          {
+            "id": "b6134adc37291625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain Driven Design (DDD)/თავი 3. შეჯამება დომეინის სირთულის მართვა..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "თავი 3. შეჯამება დომეინის სირთულის მართვა."
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,45 +212,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5b4fa485a4cc6e7",
+  "active": "30c6541cb66a960d",
   "lastOpenFiles": [
+    "Domain Driven Design (DDD)/თავი 3. შეჯამება დომეინის სირთულის მართვა..md",
+    "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
+    "Domain Driven Design (DDD)/თავი 3. დომეინის სირთულის მართვა.md",
+    "Domain Driven Design (DDD)/Bounded Context-ები რეალურ ცხოვრებაში.md",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314224809.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314224652.png",
+    "Domain Driven Design (DDD)/საზღვრები (Boundaries).md",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314222121.png",
+    "Welcome.md",
+    "Domain Driven Design (DDD)/Bounded Context-ები და Subdomain-ები.md",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314221821.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314221815.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314221546.png",
+    "Domain Driven Design (DDD)/რა არის Bounded Context.md",
     "Domain Driven Design (DDD)/სუბდომენების შედარება (Comparing Subdomains).md",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314220506.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314221005.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314220428.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260314220007.png",
+    "Domain Driven Design (DDD)/არათანმიმდევრული მოდელები.md",
+    "Domain Driven Design (DDD)/თავი 1. ბიზნეს დომენების ანალიზი.md",
     "Domain Driven Design (DDD)/რა არის სუბდომენი (Subdomain).md",
     "Domain Driven Design (DDD)/რა არის ბიზნეს დომენი (Business Domain).md",
-    "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
-    "Welcome.md",
-    "Domain Driven Deign(DDD).md",
-    "Domain Driven Design (DDD)/თავი 1. ბიზნეს დომენების ანალიზი.md",
-    "Domain Driven Design (DDD)/Pasted image 20260105134934.png",
-    "Pasted image 20260105134934.png",
-    "Domain Driven Design (DDD)",
-    "სუბდომენების შედარება (Comparing Subdomains).md",
-    "რა არის სუბდომენი (Subdomain).md",
-    "რა არის ბიზნეს დომენი (Business Domain).md",
-    "თავი 1. ბიზნეს დომენების ანალიზი.md",
-    "Building Microservices/Building Microservices.md",
     "Hexagonal Architecture/Hexagonal Architecture A.K.A Ports and adapters.md",
-    "Hexagonal Architecture/App პორტები აქტორები ადაპტერები.md",
+    "Building Microservices/მონაცემთა ბაზების რეფაქტორინგი.md",
+    "Building Microservices/მმართველობა კოდის მეშვეობით.md",
+    "Building Microservices/ანგარიშგება (Reporting).md",
+    "Building Microservices/SOA ს შესახებ.md",
+    "Building Microservices/REST.md",
+    "Building Microservices/DRY და კოდის გადამეტებული გაზიარების საფრთხეები მიკროსერვისების სამყაროში.md",
+    "Building Microservices/Building Microservices.md",
     "Building Microservices/Backup Data Pump.md",
-    "Hexagonal Architecture/ფინალური აზრები პატერნის წერისა და სახელდების შესახებ.md",
-    "Hexagonal Architecture/ტერმინების ლექსიკონი.md",
-    "Hexagonal Architecture/როგორ სტრუქტურირდება ფაილური სისტემა.md",
-    "Hexagonal Architecture/რატომ სახელი ექვსკუთხედის  არქიტექტურა.md",
-    "Hexagonal Architecture/რა არის სავალდებულო, არასავალდებულო და საერთოდ გარეთ მდებარე ამ ნიმუშის ფარგლებში.md",
     "Hexagonal Architecture/პორტი (Port).md",
-    "Hexagonal Architecture/პატერნის სიმეტრიულობა ასიმეტრიულობა.md",
-    "Hexagonal Architecture/ორიგინალი სტატიები.md",
-    "Hexagonal Architecture/ნიმუშის ხარჯები და სარგებელი.md",
+    "Hexagonal Architecture/კონფიგურატორი(The Configurator).md",
     "Hexagonal Architecture/მოსიარულე ჩონჩხის” (Walking Skeleton).md",
-    "Hexagonal Architecture/ლიტერატურა და დაკავშირებული საკითხავი მასალა.md",
-    "Hexagonal Architecture/Pasted image 20250801235625.png",
-    "Hexagonal Architecture/Pasted image 20250801233035.png",
-    "Hexagonal Architecture/Pasted image 20250801232944.png",
-    "Hexagonal Architecture/Pasted image 20250801232912.png",
-    "Hexagonal Architecture/Pasted image 20250715230337.png",
-    "Hexagonal Architecture/Pasted image 20250715230320.png",
-    "Hexagonal Architecture/Pasted image 20250715230254.png",
-    "Hexagonal Architecture/Pasted image 20250715230214.png",
+    "Hexagonal Architecture/ექვსკუთხა (პორტები და ადაპტერები) არქიტექტურა ძველი ანგარიში.md",
+    "Hexagonal Architecture/Assets",
+    "Hexagonal Architecture/New folder",
+    "Domain Driven Design (DDD)/Assets",
+    "Domain Driven Design (DDD)/New folder",
+    "Building Microservices/Assets",
+    "Domain Driven Design (DDD)",
     "Hexagonal Architecture/New Text Document.txt",
     "Hexagonal Architecture",
     "New folder",
