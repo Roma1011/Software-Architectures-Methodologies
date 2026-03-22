@@ -13,3 +13,12 @@
 [[საზღვრები (Boundaries)]]
 [[Bounded Context-ები რეალურ ცხოვრებაში]]
 [[თავი 3. შეჯამება დომეინის სირთულის მართვა.]]
+
+
+[[თავი 4. Bounded Context-ების ინტეგრაცია]]
+[[თანამშრომლობა (Cooperation)]]
+[[თანამშრომლობა Customer–Supplier]]
+[[Context Map]]
+[[თავი 4. შეჯამება Bounded Context-ების ინტეგრაცია]]
+
+
