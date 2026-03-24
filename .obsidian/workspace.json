@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
+                "file": "Building Microservices/SOA ს შესახებ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain Driven Deign(DDD)"
+              "title": "SOA ს შესახებ"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "96c8b4fa47daa41d",
   "lastOpenFiles": [
+    "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
     "Domain Driven Design (DDD)/თავი 4. Bounded Context-ების ინტეგრაცია.md",
     "Domain Driven Design (DDD)/თანამშრომლობა Customer–Supplier.md",
     "Domain Driven Design (DDD)/Context Map.md",
     "Domain Driven Design (DDD)/თავი 4. შეჯამება Bounded Context-ების ინტეგრაცია.md",
-    "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
     "Domain Driven Design (DDD)/Assets/Pasted image 20260322182405.png",
     "Domain Driven Design (DDD)/Assets/Pasted image 20260322181844.png",
     "Domain Driven Design (DDD)/Assets/Pasted image 20260322181431.png",
