@@ -24,3 +24,4 @@
 
 [[თავი 5. მარტივი ბიზნეს ლოგიკის იმპლემენტაცია]]
 [[Transaction Script]]
+[[Active Record]]
