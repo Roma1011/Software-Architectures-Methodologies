@@ -32,3 +32,4 @@
 [[თავი 6. რთული ბიზნეს ლოგიკის დაძლევა (Tackling Complex Business Logic)]]
 [[თავი 6. Domain Model]]
 [[თავი 6. საშენი ბლოკები (Building Blocks)]]
+[[თავი 6. შეჯამება რთული ბიზნეს ლოგიკის დაძლევა (Tackling Complex Business Logic)]]
