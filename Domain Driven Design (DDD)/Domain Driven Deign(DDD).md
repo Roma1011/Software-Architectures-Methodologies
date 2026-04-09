@@ -33,3 +33,10 @@
 [[თავი 6. Domain Model]]
 [[თავი 6. საშენი ბლოკები (Building Blocks)]]
 [[თავი 6. შეჯამება რთული ბიზნეს ლოგიკის დაძლევა (Tackling Complex Business Logic)]]
+
+
+[[თავი 7. დროის განზომილების მოდელირება (Modeling the Dimension of Time)]]
+[[თავი 7. Event Sourcing]]
+[[თავი 7. Event-Sourced Domain Model]]
+[[თავი 7. Frequently Asked Questions]]
+[[თავი 7. შეჯამება დროის განზომილების მოდელირება (Modeling the Dimension of Time)]]
