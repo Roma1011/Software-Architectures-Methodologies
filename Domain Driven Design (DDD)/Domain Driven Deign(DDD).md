@@ -40,3 +40,8 @@
 [[თავი 7. Event-Sourced Domain Model]]
 [[თავი 7. Frequently Asked Questions]]
 [[თავი 7. შეჯამება დროის განზომილების მოდელირება (Modeling the Dimension of Time)]]
+
+[[თავი 8. Architectural Patterns]]
+[[თავი 8. Business Logic Versus Architectural Patterns]]
+[[თავი 8. Layered Architecture]]
+[[თავი 8. Ports & Adapters]]
