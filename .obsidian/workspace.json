@@ -22,77 +22,35 @@
             }
           },
           {
-            "id": "6bfc3daceed3b857",
+            "id": "d6bf0af8da4924b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain Driven Design (DDD)/თავი 8. Scope.md",
+                "file": "Domain Driven Design (DDD)/თავი 9. Model Translation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "თავი 8. Scope"
+              "title": "თავი 9. Model Translation"
             }
           },
           {
-            "id": "701ca0c7411a3cc9",
+            "id": "b61d63e39c4cce96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain Driven Design (DDD)/თავი 8. შეჯამება Architectural Patterns.md",
+                "file": "Domain Driven Design (DDD)/თავი 4. თანამშრომლობა Customer–Supplier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "თავი 8. შეჯამება Architectural Patterns"
-            }
-          },
-          {
-            "id": "f03ac47c78543ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain Driven Design (DDD)/თავი 8. Command-Query Responsibility Segregation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "თავი 8. Command-Query Responsibility Segregation"
-            }
-          },
-          {
-            "id": "31f69d5795365ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain Driven Design (DDD)/თავი 8. Ports & Adapters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "თავი 8. Ports & Adapters"
-            }
-          },
-          {
-            "id": "b05d67f08b3f6a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain Driven Design (DDD)/თავი 8. Layered Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "თავი 8. Layered Architecture"
+              "title": "თავი 4. თანამშრომლობა Customer–Supplier"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,27 +198,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30c6541cb66a960d",
+  "active": "d6bf0af8da4924b9",
   "lastOpenFiles": [
+    "Domain Driven Design (DDD)/თავი 4. თანამშრომლობა Customer–Supplier.md",
+    "Domain Driven Design (DDD)/თავი 9. Model Translation.md",
+    "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
+    "Domain Driven Design (DDD)/თავი 4. თანამშრომლობა (Cooperation).md",
+    "Domain Driven Design (DDD)/თავი 9. Communication Patterns.md",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260410234902.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260410234743.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260410234600.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260410234523.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260410234224.png",
+    "Domain Driven Design (DDD)/Assets/Pasted image 20260410234144.png",
+    "Domain Driven Design (DDD)/თავი 4. Bounded Context-ების ინტეგრაცია.md",
+    "Domain Driven Design (DDD)/თავი 3. Bounded Context-ები და Subdomain-ები.md",
+    "Domain Driven Design (DDD)/თავი 3. რა არის Bounded Context.md",
+    "Domain Driven Design (DDD)/თავი 3. არათანმიმდევრული მოდელები.md",
+    "Domain Driven Design (DDD)/თავი 3. დომეინის სირთულის მართვა.md",
     "Domain Driven Design (DDD)/თავი 8. შეჯამება Architectural Patterns.md",
     "Domain Driven Design (DDD)/თავი 8. Scope.md",
-    "Domain Driven Design (DDD)/Domain Driven Deign(DDD).md",
     "Domain Driven Design (DDD)/Assets/Pasted image 20260410223357.png",
     "Domain Driven Design (DDD)/Assets/Pasted image 20260410223256.png",
     "Domain Driven Design (DDD)/თავი 8. Command-Query Responsibility Segregation.md",
     "Domain Driven Design (DDD)/Assets/Pasted image 20260410220719.png",
     "Domain Driven Design (DDD)/Assets/Pasted image 20260410220509.png",
-    "Domain Driven Design (DDD)/Assets/Pasted image 20260410220342.png",
-    "Domain Driven Design (DDD)/Assets/Pasted image 20260410220335.png",
-    "Domain Driven Design (DDD)/Assets/Pasted image 20260410213202.png",
     "Domain Driven Design (DDD)/თავი 8. Ports & Adapters.md",
-    "Domain Driven Design (DDD)/Assets/Pasted image 20260409211043.png",
-    "Domain Driven Design (DDD)/Assets/Pasted image 20260409210859.png",
-    "Domain Driven Design (DDD)/Assets/Pasted image 20260409210757.png",
     "Domain Driven Design (DDD)/თავი 8. Layered Architecture.md",
     "Domain Driven Design (DDD)/თავი 8. Architectural Patterns.md",
     "Domain Driven Design (DDD)/თავი 8. Business Logic Versus Architectural Patterns.md",
-    "Domain Driven Design (DDD)/თავი 3. რა არის Bounded Context.md",
     "Domain Driven Design (DDD)/თავი 7. დროის განზომილების მოდელირება (Modeling the Dimension of Time).md",
     "Domain Driven Design (DDD)/თავი 7. Event Sourcing.md",
     "Domain Driven Design (DDD)/თავი 7. Event-Sourced Domain Model.md",
@@ -270,14 +236,6 @@
     "Domain Driven Design (DDD)/თავი 6. Domain Model.md",
     "Domain Driven Design (DDD)/თავი 6. რთული ბიზნეს ლოგიკის დაძლევა (Tackling Complex Business Logic).md",
     "Domain Driven Design (DDD)/თავი 6. შეჯამება რთული ბიზნეს ლოგიკის დაძლევა (Tackling Complex Business Logic).md",
-    "Domain Driven Design (DDD)/თავი 5. იყავით პრაგმატული (Be Pragmatic).md",
-    "Domain Driven Design (DDD)/თავი 5. Active Record.md",
-    "Domain Driven Design (DDD)/თავი 5. Transaction Script.md",
-    "Domain Driven Design (DDD)/თავი 5. მარტივი ბიზნეს ლოგიკის იმპლემენტაცია.md",
-    "Domain Driven Design (DDD)/თავი 4. Context Map.md",
-    "Domain Driven Design (DDD)/თავი 4. თანამშრომლობა Customer–Supplier.md",
-    "Domain Driven Design (DDD)/თავი 4. თანამშრომლობა (Cooperation).md",
-    "Domain Driven Design (DDD)/თავი 4. Bounded Context-ების ინტეგრაცია.md",
     "Hexagonal Architecture/Assets",
     "Hexagonal Architecture/New folder",
     "Domain Driven Design (DDD)/Assets",
