@@ -45,3 +45,6 @@
 [[თავი 8. Business Logic Versus Architectural Patterns]]
 [[თავი 8. Layered Architecture]]
 [[თავი 8. Ports & Adapters]]
+[[თავი 8. Command-Query Responsibility Segregation]]
+[[თავი 8. Scope]]
+[[თავი 8. შეჯამება Architectural Patterns]]
