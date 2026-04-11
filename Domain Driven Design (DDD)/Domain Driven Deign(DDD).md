@@ -58,3 +58,4 @@
 
 [[თავი 9. Communication Patterns]]
 [[თავი 9. Model Translation]]
+[[თავი 9. Integrating Aggregates]]
