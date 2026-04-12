@@ -59,3 +59,15 @@
 [[თავი 9. Communication Patterns]]
 [[თავი 9. Model Translation]]
 [[თავი 9. Integrating Aggregates]]
+[[თავი 9. შეჯამება Communication Patterns]]
+
+
+---
+
+[[თავი 10. Design Heuristics (დიზაინის პრაქტიკული სახელმძღვანელო პრინციპები)]]
+[[თავი 10. Heuristic]]
+[[თავი 10. Bounded Contexts]]
+[[თავი 10. Business Logic Implementation Patterns]]
+[[თავი 10. Architectural Patterns]]
+[[თავი 10. Testing Strategy]]
+[[თავი 10. Tactical Design Decision Tree]]
