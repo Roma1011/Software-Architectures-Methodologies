@@ -76,3 +76,9 @@
 
 [[თავი 11. Evolving Design Decisions (დიზაინის გადაწყვეტილებების განვითარება დროთა განმავლობაში)]]
 [[თავი 11. Changes in Domains(ცვლილებები ბიზნესში დომეინში)]]
+[[თავი 11. Strategic Design Concerns]]
+[[თავი 11. Tactical Design Concerns]]
+[[თავი 11. Organizational Changes]]
+[[თავი 11. Domain Knowledge]]
+[[თავი 11. Growth]]
+[[თავი 11. შეჯამება Evolving Design Decisions (დიზაინის გადაწყვეტილებების განვითარება დროთა განმავლობაში)]]
