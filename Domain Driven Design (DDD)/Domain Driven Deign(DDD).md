@@ -1,4 +1,4 @@
-[[თავი 1. ბიზნეს დომენების ანალიზი]]
+  [[თავი 1. ბიზნეს დომენების ანალიზი]]
 [[თავი 1.  რა არის ბიზნეს დომენი (Business Domain)]]
 [[თავი 1. რა არის სუბდომენი (Subdomain)]]
 [[თავი 1. სუბდომენების შედარება (Comparing Subdomains)]]
@@ -71,3 +71,8 @@
 [[თავი 10. Architectural Patterns]]
 [[თავი 10. Testing Strategy]]
 [[თავი 10. Tactical Design Decision Tree]]
+
+---
+
+[[თავი 11. Evolving Design Decisions (დიზაინის გადაწყვეტილებების განვითარება დროთა განმავლობაში)]]
+[[თავი 11. Changes in Domains(ცვლილებები ბიზნესში დომეინში)]]
