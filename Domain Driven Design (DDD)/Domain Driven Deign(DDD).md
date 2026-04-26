@@ -92,3 +92,18 @@
 [[თავი 12. როდის გამოვიყენოთ EventStorming]]
 [[თავი 12. ფასილიტაციის რჩევები]]
 [[თავი 12. შეჯამება EventStorming]]
+
+---
+
+[[თავი 13. Domain-Driven Design რეალურ სამყაროში]]
+[[თავი 13. სტრატეგიული ანალიზი (Strategic Analysis)]]
+[[თავი 13. მოდერნიზაციის სტრატეგია (Modernization Strategy)]]
+[[თავი 13. შეჯამება Domain-Driven Design რეალურ სამყაროში]]
+
+---
+
+[[თავი 14. მიკროსერვისები (Microservices)]]
+[[თავი 14. რა არის სერვისი (What Is a Service)]]
+[[თავი 14. რა არის მიკროსერვისი (What Is a Microservice)]]
+[[თავი 14. Domain-Driven Design და მიკროსერვისების საზღვრები (Domain-Driven Design and Microservices’ Boundaries)]]
+[[თავი 14. Aggregate-ები]]
