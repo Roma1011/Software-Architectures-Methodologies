@@ -107,3 +107,5 @@
 [[თავი 14. რა არის მიკროსერვისი (What Is a Microservice)]]
 [[თავი 14. Domain-Driven Design და მიკროსერვისების საზღვრები (Domain-Driven Design and Microservices’ Boundaries)]]
 [[თავი 14. Aggregate-ები]]
+[[თავი 14. მიკროსერვისების საჯარო ინტერფეისების შეკუმშვა]]
+[[თავი 14. დასკვნა მიკროსერვისები (Microservices)]]
