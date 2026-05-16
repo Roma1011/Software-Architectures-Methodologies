@@ -117,3 +117,10 @@
 [[თავი 15. Event Driven ინტეგრაციის დიზაინი]]
 [[თავი 15. Event-Driven დიზაინის ჰეურისტიკები]]
 [[თავი 15. დასკვნა Event-Driven Architecture]]
+
+---
+
+[[თავი 16. Data Mesh]]
+[[თავი 16.  Analytical Data Management Platforms]]
+[[თავი 16. Data Mesh Architecture]]
+[[თავი 16. დასკვნა Data Mesh]]
