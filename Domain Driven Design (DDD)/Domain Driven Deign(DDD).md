@@ -124,3 +124,7 @@
 [[თავი 16.  Analytical Data Management Platforms]]
 [[თავი 16. Data Mesh Architecture]]
 [[თავი 16. დასკვნა Data Mesh]]
+
+---
+
+[[თავი 17. დასკვნითი სიტყვები]]
