@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bbb497a4aedb123",
+            "id": "898d159aaa1b7c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Balance Coupling/1. მიკროსერვისების დაშლა და დამოკიდებულებების პრობლემა.md",
+                "file": "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. ჯერ მოდულები.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. მიკროსერვისების დაშლა და დამოკიდებულებების პრობლემა"
+              "title": "თავი 2. ჯერ მოდულები"
             }
           }
         ]
@@ -169,25 +169,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bbb497a4aedb123",
+  "active": "898d159aaa1b7c64",
   "lastOpenFiles": [
-    "Balance Coupling/7. რეფაქტორინგის სტრატეგიები.md",
+    "Pasted image 20260529234315.png",
+    "Pasted image 20260529234309.png",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. კულტურა და გუნდები.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Strategic Monoliths And Microservices.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. ჯერ მოდულები.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260529215207.png",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. გადაწყვეტილებების ადრე და გვიან, სწორად და არასწორად მიღება.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. შესავალი სტრატეგიული სწავლების ძირითადი ინსტრუმენტები.md",
+    "Welcome.md",
     "Untitled 3.base",
-    "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Strategic Monoliths And Microservices.md",
-    "Building Microservices/თავი 3. შეჯამება.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. გადაწყვეტილებების ადრე და გვიან, სწორად და არასწორად მიღება.md",
-    "Building Microservices/Backup Data Pump.md",
-    "Balance Coupling/2. Balanced Coupling მოდელი.md",
-    "Balance Coupling/5. Volatility (ცვლილებების სიხშირე).md",
+    "Balance Coupling/Balance Coupling Full.md",
+    "Balance Coupling/7. რეფაქტორინგის სტრატეგიები.md",
     "Balance Coupling/6. არქიტექტურისა და გუნდის სტრუქტურის ურთიერთკავშირი (Conway’s Law).md",
-    "Balance Coupling/1. მიკროსერვისების დაშლა და დამოკიდებულებების პრობლემა.md",
-    "Balance Coupling/3. Coupling-ის ოთხი ტიპი.md",
+    "Balance Coupling/5. Volatility (ცვლილებების სიხშირე).md",
     "Balance Coupling/4. Distance-ის ორი განზომილება.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. კულტურა და გუნდები.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. შესავალი სტრატეგიული სწავლების ძირითადი ინსტრუმენტები.md",
+    "Balance Coupling/3. Coupling-ის ოთხი ტიპი.md",
+    "Balance Coupling/2. Balanced Coupling მოდელი.md",
+    "Balance Coupling/1. მიკროსერვისების დაშლა და დამოკიდებულებების პრობლემა.md",
+    "Untitled 2.base",
+    "Building Microservices/თავი 3. შეჯამება.md",
+    "Building Microservices/Backup Data Pump.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. ჩიხიდან გამოსვლა.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. შეჯამება.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. არის თუ არა მონოლითები ცუდი.md",
@@ -200,17 +206,12 @@
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. თქვენი Enterprise და Conway’s Law.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. რატომ ფუჭდება Software.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. ციფრული ტრანსფორმაცია რა არის მიზანი.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. ბიზნეს მიზნები და ციფრული ტრანსფორმაცია.md",
-    "Welcome.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517191644.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517190810.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517190207.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517185843.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517185104.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517183826.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517181344.png",
-    "Domain Driven Design (DDD)/თავი 17. დასკვნითი სიტყვები.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture",
     "Balance Coupling/assets",
     "Balance Coupling",

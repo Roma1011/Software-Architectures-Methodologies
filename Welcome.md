@@ -8,3 +8,7 @@
 ---
 
 [[Domain Driven Deign(DDD)]]
+
+---
+
+[[Strategic Monoliths And Microservices]]
