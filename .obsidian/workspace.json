@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. ჯერ მოდულები.md",
+                "file": "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Strategic Monoliths And Microservices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "თავი 2. ჯერ მოდულები"
+              "title": "Strategic Monoliths And Microservices"
+            }
+          },
+          {
+            "id": "0cf2acbb784f234d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.6 ყველაფერი მათ შორის.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "თავი 2.6 ყველაფერი მათ შორის"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,16 +184,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30c6541cb66a960d",
+  "active": "0cf2acbb784f234d",
   "lastOpenFiles": [
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.7 სად არის თქვენი სპაგეტი და რამდენად სწრაფად იხარშება ის.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.8 შეჯამება.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.6 ყველაფერი მათ შორის.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260620192411.png",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260620192358.png",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260620183831.png",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260620183819.png",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.5 ინსტალაცია ბოლოს.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Strategic Monoliths And Microservices.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.4 ჯერ მოდულები.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.3 კულტურა და გუნდები.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.2 გადაწყვეტილებების ადრე და გვიან, სწორად და არასწორად მიღება.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.1 შესავალი სტრატეგიული სწავლების ძირითადი ინსტრუმენტები.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.9 შეჯამება.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.8 ჩიხიდან გამოსვლა.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.7 ნუ დაადანაშაულებთ Agile-ს.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.6 არის თუ არა მიკროსერვისი კარგი.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.5 Software Strategy-ის ხელახლა გააზრება.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.5 არის თუ არა მონოლითები ცუდი.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.4 თქვენი Enterprise და Conway’s Law.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.3 რატომ ფუჭდება Software.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.2 ციფრული ტრანსფორმაცია რა არის მიზანი.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.1 ბიზნეს მიზნები და ციფრული ტრანსფორმაცია.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260529234315.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260529234309.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. კულტურა და გუნდები.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Strategic Monoliths And Microservices.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. ჯერ მოდულები.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260529215207.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. გადაწყვეტილებების ადრე და გვიან, სწორად და არასწორად მიღება.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2. შესავალი სტრატეგიული სწავლების ძირითადი ინსტრუმენტები.md",
     "Welcome.md",
     "Untitled 3.base",
     "Untitled 1.base",
@@ -189,28 +222,10 @@
     "Balance Coupling/5. Volatility (ცვლილებების სიხშირე).md",
     "Balance Coupling/4. Distance-ის ორი განზომილება.md",
     "Balance Coupling/3. Coupling-ის ოთხი ტიპი.md",
-    "Balance Coupling/2. Balanced Coupling მოდელი.md",
-    "Balance Coupling/1. მიკროსერვისების დაშლა და დამოკიდებულებების პრობლემა.md",
     "Untitled 2.base",
-    "Building Microservices/თავი 3. შეჯამება.md",
-    "Building Microservices/Backup Data Pump.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. ჩიხიდან გამოსვლა.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. შეჯამება.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. არის თუ არა მონოლითები ცუდი.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. არის თუ არა მიკროსერვისი კარგი.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. ნუ დაადანაშაულებთ Agile-ს.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. Software Strategy-ის ხელახლა გააზრება.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260524143112.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260524143106.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260524142842.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. თქვენი Enterprise და Conway’s Law.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. რატომ ფუჭდება Software.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1. ციფრული ტრანსფორმაცია რა არის მიზანი.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517191644.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517190810.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517190207.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517185843.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260517185104.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture",
     "Balance Coupling/assets",
