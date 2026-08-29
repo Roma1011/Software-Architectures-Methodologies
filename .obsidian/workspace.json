@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Fundamentals OOP with UML/ინკაფსულაცია.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ინკაფსულაცია"
+            }
+          },
+          {
+            "id": "f14267b72d83554b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Strategic Monoliths And Microservices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Strategic Monoliths And Microservices"
-            }
-          },
-          {
-            "id": "0cf2acbb784f234d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.6 ყველაფერი მათ შორის.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "თავი 2.6 ყველაფერი მათ შორის"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,54 +186,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cf2acbb784f234d",
+  "active": "f14267b72d83554b",
   "lastOpenFiles": [
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.7 სად არის თქვენი სპაგეტი და რამდენად სწრაფად იხარშება ის.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.8 შეჯამება.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.6 ყველაფერი მათ შორის.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260620192411.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260620192358.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260620183831.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260620183819.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.5 ინსტალაცია ბოლოს.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Strategic Monoliths And Microservices.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.4 ჯერ მოდულები.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.3 კულტურა და გუნდები.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.2 გადაწყვეტილებების ადრე და გვიან, სწორად და არასწორად მიღება.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.1 შესავალი სტრატეგიული სწავლების ძირითადი ინსტრუმენტები.md",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.9 შეჯამება.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.8 ჩიხიდან გამოსვლა.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.7 ნუ დაადანაშაულებთ Agile-ს.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.6 არის თუ არა მიკროსერვისი კარგი.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.5 Software Strategy-ის ხელახლა გააზრება.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.5 არის თუ არა მონოლითები ცუდი.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.4 თქვენი Enterprise და Conway’s Law.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.3 რატომ ფუჭდება Software.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.2 ციფრული ტრანსფორმაცია რა არის მიზანი.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 1.1 ბიზნეს მიზნები და ციფრული ტრანსფორმაცია.md",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260529234315.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260529234309.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260529215207.png",
-    "Welcome.md",
-    "Untitled 3.base",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.1 შესავალი სტრატეგიული სწავლების ძირითადი ინსტრუმენტები.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.8 შეჯამება.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.4 ჯერ მოდულები.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.5 ინსტალაცია ბოლოს.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.6 ყველაფერი მათ შორის.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Strategic Monoliths And Microservices.md",
+    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/თავი 2.7 სად არის თქვენი სპაგეტი და რამდენად სწრაფად იხარშება ის.md",
+    "Fundamentals OOP with UML/რა ნიშნავს ობიექტზე ორიენტირებული პროგრამირება.md",
+    "Fundamentals OOP with UML/სარჩევი.md",
+    "Fundamentals OOP with UML/ობიექტთა ურთიერთქმედების დიაგრამები.md",
+    "Fundamentals OOP with UML/ასინქრონული შეტყობინებები და ერთდროული შესრულება.md",
+    "Fundamentals OOP with UML/აბსტრაქტული ოპერაციები და კლასები.md",
+    "Fundamentals OOP with UML/The class.md",
+    "Fundamentals OOP with UML/Association Structure (ასოციაციის სტრუქტურა).md",
+    "Fundamentals OOP with UML/Operations.md",
+    "Fundamentals OOP with UML/Attributes.md",
     "Untitled 1.base",
+    "Fundamentals OOP with UML/შეჯამება.md",
+    "Fundamentals OOP with UML/შეჯამება კლასები,ატრიბუტები და ოპერაციების გამოსახვა.md",
+    "Fundamentals OOP with UML/შეტყობინების სტრუქტურა.md",
+    "Fundamentals OOP with UML/შეტყობინების არგუმენტები.md",
+    "Fundamentals OOP with UML/შეტყობინებების ტიპები.md",
+    "Fundamentals OOP with UML/შეტყობინებები.md",
+    "Fundamentals OOP with UML/შესავალი ისტორიაში.md",
+    "Fundamentals OOP with UML/საიდან მოვიდა ობიექტური ორიენტაცია.md",
+    "Fundamentals OOP with UML/რისთვისაა კარგი ობიექტური ორიენტაცია.md",
+    "Fundamentals OOP with UML/Untitled.canvas",
+    "Fundamentals OOP with UML/Untitled.base",
+    "Fundamentals OOP with UML/Pasted image 20251012153017.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152953.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152924.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152800.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152743.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152549.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152503.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152445.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152244.png",
+    "Fundamentals OOP with UML/Pasted image 20251012152220.png",
+    "Fundamentals OOP with UML",
+    "New folder",
     "Untitled.base",
-    "Balance Coupling/Balance Coupling Full.md",
-    "Balance Coupling/7. რეფაქტორინგის სტრატეგიები.md",
-    "Balance Coupling/6. არქიტექტურისა და გუნდის სტრუქტურის ურთიერთკავშირი (Conway’s Law).md",
-    "Balance Coupling/5. Volatility (ცვლილებების სიხშირე).md",
-    "Balance Coupling/4. Distance-ის ორი განზომილება.md",
-    "Balance Coupling/3. Coupling-ის ოთხი ტიპი.md",
+    "Untitled 3.base",
     "Untitled 2.base",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260524143112.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260524143106.png",
-    "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets/Pasted image 20260524142842.png",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture/Assets",
     "Strategic Monoliths and Microservices Driving Innovation Using Purposeful Architecture",
     "Balance Coupling/assets",
-    "Balance Coupling",
-    "Hexagonal Architecture/Assets",
-    "Hexagonal Architecture/New folder",
     "Building Microservices/Untitled.canvas",
     "Building Microservices/Untitled 1.canvas"
   ]
