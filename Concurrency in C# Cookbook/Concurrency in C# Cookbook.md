@@ -17,14 +17,14 @@
 
   <rect x="25" y="50" width="175" height="105" fill="#4A90D9" fill-opacity="0.16" stroke="currentColor" rx="6"/>
   <text x="112" y="74" text-anchor="middle" font-size="11" font-weight="bold" fill="currentColor">ასინქრონული</text>
-  <text x="112" y="96" text-anchor="middle" font-size="9" fill="currentColor">I/O-ს ლოდინი ნაკადის</text>
+  <text x="112" y="96" text-anchor="middle" font-size="11" fill="currentColor">I/O-ს ლოდინი ნაკადის</text>
   <text x="112" y="110" text-anchor="middle" font-size="9" fill="currentColor">დაკავების გარეშე</text>
   <text x="112" y="136" text-anchor="middle" font-size="9" font-weight="bold" fill="currentColor">თავები 2, 3</text>
 
   <rect x="215" y="50" width="175" height="105" fill="#27AE60" fill-opacity="0.16" stroke="currentColor" rx="6"/>
   <text x="302" y="74" text-anchor="middle" font-size="11" font-weight="bold" fill="currentColor">პარალელური</text>
-  <text x="302" y="96" text-anchor="middle" font-size="9" fill="currentColor">CPU-ს ბევრი ბირთვის</text>
-  <text x="302" y="110" text-anchor="middle" font-size="9" fill="currentColor">ერთდროული გამოყენება</text>
+  <text x="302" y="96" text-anchor="middle" font-size="15" fill="currentColor">CPU-ს ბევრი ბირთვის</text>
+  <text x="302" y="110" text-anchor="middle" font-size="15" fill="currentColor">ერთდროული გამოყენება</text>
   <text x="302" y="136" text-anchor="middle" font-size="9" font-weight="bold" fill="currentColor">თავი 4</text>
 
   <rect x="405" y="50" width="175" height="105" fill="#E67E22" fill-opacity="0.16" stroke="currentColor" rx="6"/>
@@ -35,8 +35,8 @@
 
   <rect x="595" y="50" width="175" height="105" fill="#8E44AD" fill-opacity="0.16" stroke="currentColor" rx="6"/>
   <text x="682" y="74" text-anchor="middle" font-size="11" font-weight="bold" fill="currentColor">Dataflow</text>
-  <text x="682" y="96" text-anchor="middle" font-size="9" fill="currentColor">მილსადენები და ბადეები</text>
-  <text x="682" y="110" text-anchor="middle" font-size="9" fill="currentColor">მონაცემების დამუშავებისთვის</text>
+  <text x="682" y="96" text-anchor="middle" font-size="15" fill="currentColor">მილსადენები და ბადეები</text>
+  <text x="682" y="110" text-anchor="middle" font-size="15" fill="currentColor">მონაცემების დამუშავებისთვის</text>
   <text x="682" y="136" text-anchor="middle" font-size="9" font-weight="bold" fill="currentColor">თავი 5</text>
 
   <rect x="80" y="180" width="620" height="50" fill="#C0392B" fill-opacity="0.08" stroke="currentColor" stroke-dasharray="4 3" rx="6"/>
