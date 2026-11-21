@@ -1,4 +1,4 @@
-Rx გამოწერებს არსებული `IDisposable` ინტერფეისით წარმოადგენს, რაც საშუალებას აძლევს, ენის ჩაშენებული საშუალებები (`using`) გამოვიყენოთ. გარდა ამისა, Rx `System.Reactive.Disposables` namespace-ში `IDisposable`-ის რამდენიმე მზა იმპლემენტაციას გვთავაზობს. `ScheduledDisposable`-ის გარდა, ისინი Rx-ს პირდაპირ არ უკავშირდება და ნებისმიერ `IDisposable`-თან მომუშავე კოდში გამოგადგებათ.
+Rx გამოწერას უკვე არსებული `IDisposable` ინტერფეისით წარმოადგენს, ამიტომ შეგვიძლია ენის ჩაშენებული საშუალებები (`using`) გამოვიყენოთ. გარდა ამისა, Rx `System.Reactive.Disposables` namespace-ში `IDisposable`-ის რამდენიმე მზა იმპლემენტაციას გვთავაზობს. `ScheduledDisposable`-ის გარდა, ისინი Rx-ს პირდაპირ არ უკავშირდება და ნებისმიერ `IDisposable`-თან მომუშავე კოდში გამოგადგებათ.
 
 ## ცხრილი
 
@@ -13,13 +13,13 @@ Rx გამოწერებს არსებული `IDisposable` ინ�
 | **`MultipleAssignmentDisposable`** | `Disposable` თვისების **მრავალჯერ** გადაწერა შესაძლებელია |
 | **`SerialDisposable`** | ახლის მინიჭებისას **ძველს ხურავს** |
 | **`SingleAssignmentDisposable`** | ერთი მინიჭება; მეორეზე `InvalidOperationException` |
-| **`RefCountDisposable`** | ქვედა რესურსს ხურავს მხოლოდ მას შემდეგ, რაც ყველა დამოკიდებული დაიხურა |
+| **`RefCountDisposable`** | ძირითად რესურსს ხურავს მხოლოდ მას შემდეგ, რაც ყველა დამოკიდებული დაიხურა |
 | **`ScheduledDisposable`** | რესურსს მითითებულ scheduler-ზე ხურავს |
 
 ## ხშირად გამოსადეგი
 
 > [!TIP] `Disposable.Empty` და `Disposable.Create`
-> `Disposable.Empty` გამოგადგებათ, როცა `IDisposable`-ის დაბრუნება გავალდებულებთ (მაგალითად, `Observable.Create`-ში), მაგრამ დახურვისას არაფრის გაკეთება არ გჭირდებათ. `Disposable.Create(action)` კი პირიქით: დახურვისას რესურსის გასათავისუფლებელ მოქმედებას აწვდით.
+> `Disposable.Empty` გამოგადგებათ, როცა `IDisposable` აუცილებლად უნდა დააბრუნოთ (მაგალითად, `Observable.Create`-ში), მაგრამ დახურვისას არაფრის გაკეთება არ გჭირდებათ. `Disposable.Create(action)` კი იმ შემთხვევისთვისაა, როცა დახურვისას რაიმე მოქმედება (მაგალითად, რესურსის გათავისუფლება) უნდა შესრულდეს.
 
 ```csharp
 return Disposable.Create(() =>
@@ -30,7 +30,7 @@ return Disposable.Create(() =>
 ```
 
 > [!IMPORTANT] `CompositeDisposable`: ბევრი ერთში
-> `CompositeDisposable` საშუალებას გაძლევს, მრავალი რესურსი ერთ ერთეულად მართო. `Dispose`-ზე ისინი **დამატების რიგით** იხურება. ის `ICollection<IDisposable>`-საც იმპლემენტირებს, ამიტომ რესურსების დამატება/ამოღება შეიძლება. თუ კოლექცია უკვე დახურულია, ახლად დამატებული რესურსი **მაშინვე** იხურება; ამოღებული რესურსიც იხურება, კოლექციის მდგომარეობის მიუხედავად.
+> `CompositeDisposable` საშუალებას გაძლევთ, რამდენიმე რესურსი ერთ მთლიანობად მართოთ. `Dispose`-ზე ისინი **დამატების რიგით** იხურება. ის `ICollection<IDisposable>`-საც იმპლემენტირებს, ამიტომ რესურსების დამატება/ამოღება შეიძლება. თუ კოლექცია უკვე დახურულია, ახლად დამატებული რესურსი **მაშინვე** იხურება; ამოღებული რესურსიც იხურება, კოლექციის მდგომარეობის მიუხედავად.
 
 <svg viewBox="0 0 860 210" xmlns="http://www.w3.org/2000/svg" style="max-width:100%; height:auto; font-family: sans-serif;">
   <text x="430" y="26" text-anchor="middle" font-size="16" font-weight="bold" fill="currentColor">Serial vs MultipleAssignment vs SingleAssignment</text>
@@ -57,7 +57,7 @@ return Disposable.Create(() =>
 *ნახაზი B.1: სამი მინიჭებადი Disposable-ის განსხვავება.*
 
 > [!NOTE] `RefCountDisposable`
-> `RefCountDisposable` შიდა მთვლელს ინახავს: ყოველი `GetDisposable` ზრდის, ყოველი დამოკიდებულის დახურვა ამცირებს. ქვედა რესურსი მხოლოდ მაშინ იხურება, როცა მთვლელი 0-ს მიაღწევს. ეს [[თავი 13.2 RefCount და AutoConnect|RefCount ოპერატორის]] დაბალი დონის ანალოგია.
+> `RefCountDisposable` შიდა მთვლელს ინახავს: ყოველი `GetDisposable` ზრდის, ყოველი დამოკიდებულის დახურვა ამცირებს. ძირითადი რესურსი მხოლოდ მაშინ იხურება, როცა მთვლელი 0-ს მიაღწევს. ეს [[თავი 13.2 RefCount და AutoConnect|RefCount ოპერატორის]] დაბალი დონის ანალოგია.
 
 ## იხილეთ ასევე
 
